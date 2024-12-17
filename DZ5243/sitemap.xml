@@ -15,4 +15,35 @@
         <lastmod>2024-06-01</lastmod>
         <priority>0.80</priority>
     </url>
+
+    <url>
+        <loc>https://aftoservis.com/footer.php</loc>
+        <lastmod>2024-12-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://aftoservis.com/for_clients.php</loc>
+        <lastmod>2024-12-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://aftoservis.com/header.php</loc>
+        <lastmod>2024-12-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://aftoservis.com/history.php</loc>
+        <lastmod>2024-12-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://aftoservis.com/info.php</loc>
+        <lastmod>2024-12-17</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://aftoservis.com/news.php</loc>
+        <lastmod>2024-12-17</lastmod>
+        <priority>0.80</priority>
+    </url>
 </urlset>
