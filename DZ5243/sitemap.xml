@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://aftoservis.com/index.php</loc>
+        <loc>https://localhost/aftoservis.com/index.php</loc>
         <lastmod>2024-06-01</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://aftoservis.com/about_us.php</loc>
+        <loc>https://localhost/about_us.php</loc>
         <lastmod>2024-06-01</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://aftoservis.com/contacts.php</loc>
+        <loc>https://localhost/contacts.php</loc>
         <lastmod>2024-06-01</lastmod>
         <priority>0.80</priority>
     </url>
 
     <url>
-        <loc>https://aftoservis.com/footer.php</loc>
+        <loc>https://localhost/footer.php</loc>
         <lastmod>2024-12-17</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://aftoservis.com/for_clients.php</loc>
+        <loc>https://localhost/for_clients.php</loc>
         <lastmod>2024-12-17</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://aftoservis.com/header.php</loc>
+        <loc>https://localhost/header.php</loc>
         <lastmod>2024-12-17</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://aftoservis.com/history.php</loc>
+        <loc>https://localhost/history.php</loc>
         <lastmod>2024-12-17</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://aftoservis.com/info.php</loc>
+        <loc>https://localhost/info.php</loc>
         <lastmod>2024-12-17</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://aftoservis.com/news.php</loc>
+        <loc>https://localhost/news.php</loc>
         <lastmod>2024-12-17</lastmod>
         <priority>0.80</priority>
     </url>
